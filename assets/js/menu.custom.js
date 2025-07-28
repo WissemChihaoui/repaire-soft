@@ -158,6 +158,11 @@ const menuItems = [
       ]
     },
     {
+      icon: '<i class="ki-duotone ki-tag fs-2x" style="color:white"><span class="path1"></span><span class="path2"><span class="path3"></span><span class="path4"><span class="path5"></span><span class="path6"></span></i>',
+      href:"/achats/index.html",
+      label: "Achats / Dépenses"
+    },
+    {
       icon: '<i class="ki-duotone ki-setting-4 fs-2x" style="color:white"></i>',
       href:"javascript:void(0);",
       label: 'Ma boutique',
